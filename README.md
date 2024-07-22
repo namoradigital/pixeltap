@@ -1,6 +1,4 @@
 # Pixelverse by PixelTap
-Recoded by [Naufaljct48](https://github.com/naufaljct48)  
-Special thanks to [@akasaid](https://github.com/akasakaid/pixelversexyzbot)
 
 # Feature
 - [x] Auto Claim Point
@@ -11,16 +9,9 @@ Special thanks to [@akasaid](https://github.com/akasakaid/pixelversexyzbot)
 - [x] Auto Claim Cipher/Daily Combo
 - [x] Auto Buy New Pet
 
-## Screenshot
-**Auto Upgrade Pet**  
-<img src="https://github.com/naufaljct48/pixelverse/blob/main/AutoUpgradePet.jpg" width="750">
-
-**Daily Combo**  
-<img src="https://github.com/naufaljct48/pixelverse/blob/main/DailyCombo.jpg" width="750">
-
 # Registration
 
-Start bot : [HERE](https://t.me/pixelversexyzbot?start=1007550735)
+Start bot : [HERE](https://t.me/pixelversexyzbot?start=965246930)
 
 # How to Use
 
@@ -28,7 +19,7 @@ Start bot : [HERE](https://t.me/pixelversexyzbot?start=1007550735)
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/naufaljct48/pixelverse.git
+   https://github.com/namoradigital/pixeltap.git
    ```
 3. Go to pixelverse
    ```
@@ -61,7 +52,7 @@ Start bot : [HERE](https://t.me/pixelversexyzbot?start=1007550735)
 
 5. Get Telegram data
    
-   1. Active web inspecting in telegram app, How to activate follow the video [https://youtu.be/NYxHmck_GjE](https://youtu.be/NYxHmck_GjE)
+   1. Active web inspecting in telegram app
    2. Goto pixeltap bot and open the apps
    3. Press `F12` on your keyboard to open devtool or right click on app and select `Inspect`
    4. Goto `console` menu and copy [javascript code](#javascript-command-to-get-telegram-data-for-desktop) then paste on `console` menu
