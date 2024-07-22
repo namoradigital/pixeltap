@@ -21,7 +21,7 @@ Start bot : [HERE](https://t.me/pixelversexyzbot?start=965246930)
    ```shell
    https://github.com/namoradigital/pixeltap.git
    ```
-3. Go to pixelverse
+3. Go to pixeltap
    ```
    cd pixelverse
    ```
